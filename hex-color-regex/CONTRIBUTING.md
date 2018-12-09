@@ -28,5 +28,5 @@ npm i standard -g
 
 It is intentional to don't have `standard`, `istanbul` and `coveralls` in the devDependencies. Travis will handle all that stuffs. That approach will save bandwidth also installing and development time.
 
-[standard-image]: https://cdn.rawgit.com/feross/standard/master/badge.svg
+[standard-image]: https://cdn.jsdelivr.net/gh/feross/standard@master/badge.svg
 [standard-url]: https://github.com/feross/standard
